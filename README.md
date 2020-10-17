@@ -41,9 +41,9 @@
 	}
                 
 ## 4.实验结果
-                cpu.setSpeed(2200);
-		cpu.setType("RISC");
-		HD.setAmount(200); 
+                cpu.setSpeed 2200;
+		cpu.setType  RISC;
+		HD.setAmount 200; 
                 
                 
 ## 5.实验感想      
